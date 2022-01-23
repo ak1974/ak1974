@@ -25,3 +25,7 @@ https://github.com/ak1974/RoutePointsEditor.git
 
 Calc // Калькулятор с двумя потоками (C++/Qt) 
 https://github.com/ak1974/Calc.git
+
+
+WatchLog // Программа для просмотра логов (НЕ редактирования) (C++/Qt)
+https://github.com/ak1974/WatchLog.git
