@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 Каждый проект, кроме непосредственно кода, содержит папку ReadMe c самим заданием, описанием решения, 
 а также gif или видео для демонстрации.
 
-Ссылки на GitHub привожу ниже:
+Список ТЗ на GitHub привожу ниже:
 
 RoutePointsEditor // Виджет редактирования точек маршрута (C++/Qt/stl)
 https://github.com/ak1974/RoutePointsEditor.git
