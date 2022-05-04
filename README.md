@@ -18,9 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 Список ТЗ на GitHub привожу ниже:
 
-RoutePointsEditor // Виджет редактирования точек маршрута (C++/Qt/stl)
-https://github.com/ak1974/RoutePointsEditor.git
-
 
 Calc // Калькулятор с двумя потоками (C++/Qt) 
 https://github.com/ak1974/Calc.git
