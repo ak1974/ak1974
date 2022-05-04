@@ -25,3 +25,7 @@ https://github.com/ak1974/Calc.git
 
 WatchLog // Программа для просмотра логов (НЕ редактирования) (C++/Qt)
 https://github.com/ak1974/WatchLog.git
+
+
+UDP_Chat // Чат на сокетах UDP с отдельным потоком (C++/Qt)
+https://github.com/ak1974/UDP_Chat.git
