@@ -15,17 +15,3 @@ You can click the Preview link to take a look at your changes.
 
 Каждый проект, кроме непосредственно кода, содержит папку ReadMe c самим заданием, описанием решения, 
 а также gif или видео для демонстрации.
-
-Список ТЗ на GitHub привожу ниже:
-
-
-Calc // Калькулятор с двумя потоками (C++/Qt) 
-https://github.com/ak1974/Calc.git
-
-
-WatchLog // Программа для просмотра логов (НЕ редактирования) (C++/Qt)
-https://github.com/ak1974/WatchLog.git
-
-
-UDP_Chat // Чат на сокетах UDP с отдельным потоком (C++/Qt)
-https://github.com/ak1974/UDP_Chat.git
